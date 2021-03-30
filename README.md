@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there :wave:
 
-<!--
-**Innovator007/Innovator007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Innovator007/Innovator007/master/resources/banner.png" alt="Feel free to check my repo out!">
 
-Here are some ideas to get you started:
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Innovator007/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I am Innovator007, you can call me Iliyas Attarwala. 
+
+- 🔭 I’m currently working in Javascript, Python
+- 🌱 I’m currently learning Competitive Programming
+- 💬 Ask me about **Javascript, Python, React.js, Node.js, Blockchain, Databases or Machine Learning**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/iliyas-attarwala) | [Mail](iliyasmattarwala@gmail.com)
+- 💻 Javascript, Python, C++, Java
+
